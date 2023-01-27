@@ -1,0 +1,22 @@
+[
+  {
+    "name": "@monun/tap",
+    "repository": "mavenCentral",
+    "notation": "io.github.monun:tap-api"
+  },
+  {
+    "name": "@monun/kommand",
+    "repository": "mavenCentral",
+    "notation": "io.github.monun:kommand-api"
+  },
+  {
+    "name": "@papermc/paper",
+    "repository": "https://repo.papermc.io/repository/maven-public",
+    "notation": "io.papermc.paper:paper-api"
+  },
+  {
+    "name": "@monun/invfx",
+    "repository": "mavenCentral",
+    "notation": "io.github.monun:invfx-api"
+  }
+]
